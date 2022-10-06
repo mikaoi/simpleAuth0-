@@ -1,5 +1,10 @@
-## React App with Auth0 Integration
+## Simple React App with Auth0 Integration
 
-Very simple React app with authentication using Auth0.
+This is a simple react login demonstration using Auth0 
 
-**NOTE: You must enter your environmental variables for this to work correctly.**
+#### Summary
+You will simple authentication app where users can log in using Auth0 and view the user data with an option to log out.
+
+
+
+
